@@ -1,6 +1,6 @@
 module github.com/polarsignals/arcticdb
 
-go 1.18
+go 1.24
 
 require (
 	github.com/RoaringBitmap/roaring v0.9.4
@@ -24,7 +24,7 @@ require (
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
 	github.com/goccy/go-json v0.7.10 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
-	github.com/klauspost/compress v1.15.1 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
 	github.com/mschoch/smat v0.2.0 // indirect
